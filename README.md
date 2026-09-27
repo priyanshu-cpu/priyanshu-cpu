@@ -6,8 +6,10 @@
 
 <p>
   <a href="https://github.com/priyanshu-cpu">
+    <img src="https://img.shields.io/badge/GitHub-priyanshu--cpu-181717?style=flat-square&logo=github&logoColor=white">
   </a>
   <a href="mailto:priyanshurajput12863@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
