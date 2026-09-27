@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**priyanshu-cpu/priyanshu-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Priyanshu Kumar
 
-Here are some ideas to get you started:
+### Backend Developer • Python • FastAPI • REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/priyanshu-cpu">
+    <img src="https://img.shields.io/badge/GitHub-priyanshu--cpu-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:priyanshurajput12863@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Backend Developer from India** who enjoys building APIs, working with databases, and turning ideas into practical software.
+
+- 🔭 Currently working on **Event Ticket Booking System**
+- 🐍 Building backend applications with **Python & FastAPI**
+- 🌱 Currently learning **Docker & Backend Architecture**
+- ⚡ Interested in **REST APIs, databases and scalable applications**
+- 🗄️ Experienced with **PostgreSQL, SQLAlchemy & Alembic**
+- 🎯 Looking for opportunities as a **Backend / Full-Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,javascript,html,css,react" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql,git,docker,linux" />
+
+</div>
