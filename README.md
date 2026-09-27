@@ -31,7 +31,7 @@ I'm a **Backend Developer from India** who enjoys building APIs, working with da
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,javascript,html,css,react" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,javascript,html" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,mssql,git,docker,linux" />
 
 </div>
