@@ -21,7 +21,7 @@ I'm a **Backend Developer from India** who enjoys building APIs, working with da
 - 🔭 Currently working on **Event Ticket Booking System**
 - 🐍 Building backend applications with **Python & FastAPI**
 - 🌱 Currently learning **Backend and Agentic AI**
-- ⚡ Interested in **REST APIs, databases and scalable applications**
+- ⚡ Interested in **Agentic AI, REST APIs, databases and scalable applications**
 - 🗄️ Experienced with **PostgreSQL, SQLAlchemy & Alembic**
 - 🎯 Looking for opportunities as a **Backend / Full-Stack Developer**
 
